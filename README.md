@@ -1,2 +1,2 @@
 # colorchecker
-Barra que muestra el color introducido
+ColorChecker, muestra el color en los bordes del valor hexagonal introducido
